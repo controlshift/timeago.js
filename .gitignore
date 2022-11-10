@@ -5,7 +5,5 @@ coverage
 package-lock.json
 lib
 esm
-dist
 
-timeago.full.min.js
-timeago.min.js
+gh-pages/dist
